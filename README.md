@@ -16,10 +16,10 @@ no external API dependencies.
 
 ## Demo
 
-![Chat Interface](screenshots/ui_chat.png)
+![Chat Interface](screenshots/Screenshot_UI_chat.png)
 *Asking questions about uploaded documents with cited answers*
 
-![Sidebar](screenshots/ui_sidebar.png)
+![Sidebar](screenshots/Screenshot_UI_sidebar.png)
 *Document upload and management interface*
 
 ---
