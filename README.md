@@ -86,8 +86,11 @@ The entire pipeline runs locally — no data ever leaves your machine.
 
 ```bash
 # clone the repo
-git clone https://github.com/Veenkata2002/rag-document-intelligence
-cd rag-document-intelligence
+git clone https://github.com/Veenkatacharan/RAG-Document-Intelligence
+cd RAG-Document-Intelligence
+
+# start ollama
+ollama serve &
 
 # start all services
 docker compose up --build
