@@ -1,0 +1,17 @@
+# environment
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# data - don't push PDFs to GitHub
+data/*.pdf
+
+# model cache
+.cache/
+*.bin
+
+# docker
+.docker/
