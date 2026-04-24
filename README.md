@@ -158,4 +158,4 @@ rag-document-intelligence/
 
 Veenkatacharan Manne Muddhu Sridhar
 MSc Data Science — University of Sheffield
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:veenkata2002@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/veenkatacharan-manne-muddhu-sridhar-3455ab1a4/) | [Email](mailto:veenkata2002@gmail.com)
